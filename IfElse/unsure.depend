@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1709687384 source:c:\users\mark\desktop\unsure\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1711727307 source:c:\users\mark\desktop\c journey\ifelse\main.c
+	<stdio.h>
+
